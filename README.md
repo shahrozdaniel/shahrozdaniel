@@ -78,12 +78,6 @@ Primary focus is on writing maintainable backend systems with clear separation o
 
 ![](https://streak-stats.demolab.com?user=shahrozdaniel\&hide_border=true)
 
----
-
-## GitHub Trophy Board
-![](https://github-profile-trophy.vercel.app/?username=shahrozdaniel\&no-frame=true\&margin-w=10)
-
----
 
 ## Activity Graph
 
