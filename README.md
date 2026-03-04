@@ -53,7 +53,6 @@ Primary focus is on writing maintainable backend systems with clear separation o
 ---
 
 ## GitHub Statistics
-
 ![](https://github-readme-stats.vercel.app/api?username=shahrozdaniel\&show_icons=true\&theme=default\&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrozdaniel\&layout=compact\&hide_border=true)
@@ -63,7 +62,6 @@ Primary focus is on writing maintainable backend systems with clear separation o
 ---
 
 ## GitHub Trophy Board
-
 ![](https://github-profile-trophy.vercel.app/?username=shahrozdaniel\&no-frame=true\&margin-w=10)
 
 ---
